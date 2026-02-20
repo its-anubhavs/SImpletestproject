@@ -74,7 +74,7 @@ export default function Checkout() {
       localStorage.removeItem("cart");
       localStorage.removeItem("checkoutTotal");
       router.push("/");
-    }, 300000);
+    }, 6000);
   };
 
  const payWithRazorpay = async () => {
@@ -123,7 +123,7 @@ export default function Checkout() {
           localStorage.removeItem("cart");
           localStorage.removeItem("checkoutTotal");
           router.push("/");
-        }, 3000);
+        }, 6000);
       },
 
       theme: {
