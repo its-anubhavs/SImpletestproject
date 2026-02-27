@@ -709,7 +709,7 @@ export default function HairAura() {
                 href="#products"
                 className="btn-primary text-white px-8 py-4 rounded-2xl font-body font-semibold text-sm tracking-wide inline-flex items-center gap-2 shadow-lg shadow-emerald-900/30"
               >
-                <span>Shop Collection</span>
+                <span>Shop Products</span>
                 <svg
                   className="w-4 h-4"
                   fill="none"
