@@ -696,13 +696,13 @@ export default function HairAura() {
             >
               Unlock Your
               <br />
-              <em className="text-emerald-300">Hair's Natural</em>
+              <em className="text-emerald-300">Hair is Natural</em>
               <br />
               Potential
             </h1>
             <p className="font-body text-gray-700 mt-6 text-base md:text-lg leading-relaxed max-w-md">
               Ancient Ayurvedic wisdom, cold-pressed purity, and modern science
-              — crafted for hair that's truly alive.
+              — crafted for hair that is truly alive.
             </p>
             <div className="flex flex-wrap gap-4 mt-10">
               <a
@@ -839,7 +839,7 @@ export default function HairAura() {
             <p className="font-body text-stone-600 mt-6 leading-relaxed">
               Born from generations of Ayurvedic knowledge, HairAura blends
               time-tested botanical formulations with contemporary
-              cold-extraction techniques to preserve every drop of nature's
+              cold-extraction techniques to preserve every drop of nature is
               goodness.
             </p>
             <p className="font-body text-stone-600 mt-4 leading-relaxed">
@@ -890,11 +890,11 @@ export default function HairAura() {
         <div className="max-w-7xl mx-auto px-5 md:px-8 relative z-10">
           <div className="text-center mb-16">
             <span className="font-body text-emerald-400 text-xs font-semibold tracking-widest uppercase">
-              What's Inside
+              What is Inside
             </span>
             <div className="section-divider mt-2" />
             <h2 className="font-display text-4xl md:text-5xl text-white mt-4 font-semibold">
-              Nature's <em className="text-emerald-300">Finest</em> Ingredients
+              Nature is <em className="text-emerald-300">Finest</em> Ingredients
             </h2>
           </div>
           <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-5">
@@ -1204,7 +1204,7 @@ export default function HairAura() {
                 </div>
               </div>
               <p className="font-body text-stone-600 text-sm leading-relaxed flex-1">
-                "{review.text}"
+                {review.text}
               </p>
               <div className="mt-4 pt-4 border-t border-stone-50 flex items-center gap-2">
                 <svg
@@ -1259,7 +1259,7 @@ export default function HairAura() {
         />
         <div className="max-w-4xl mx-auto px-5 md:px-8 text-center relative z-10">
           <h2 className="font-display text-4xl md:text-5xl text-white font-semibold">
-            Start Your Hair Journey
+            Start Your Hair Journey now
             <br />
             <em className="text-emerald-200">Today</em>
           </h2>
@@ -1300,7 +1300,7 @@ export default function HairAura() {
               style={{ margin: "8px 0 16px" }}
             />
             <h2 className="font-display text-4xl font-semibold text-stone-900">
-              We're Here
+              We are Here
               <br />
               <em>To Help</em>
             </h2>
